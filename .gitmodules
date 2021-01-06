@@ -1,3 +1,9 @@
 [submodule "plugins/zsh-autosuggestions"]
 	path = plugins/zsh-autosuggestions
 	url = https://github.com/zsh-users/zsh-autosuggestions.git
+[submodule "themes/passion"]
+	path = themes/passion
+	url = https://github.com/ChesterYue/ohmyzsh-theme-passion.git
+[submodule "typewritten"]
+	path = themes/typewritten
+	url = https://github.com/reobin/typewritten.git
